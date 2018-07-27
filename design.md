@@ -19,3 +19,4 @@
 * Has cost values (linked to current market prices from lists of suppliers?) for OEM stock switches
 * Has cost values submitted by users for custom switch combinations
 * Ability to add/link sound samples?
+* Ability to Submit a name for a custom, with vote system, and the highest vote at time of viewing is the displayed community name. This can be exceptioned for existing known combinations widely accepted as its name, e.g. Holy Panda.
