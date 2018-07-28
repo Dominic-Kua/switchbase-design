@@ -21,3 +21,5 @@
 * Ability to add/link sound samples?
 * Ability to Submit a name for a custom, with vote system, and the highest vote at time of viewing is the displayed community name. This can be exceptioned for existing known combinations widely accepted as its name, e.g. Holy Panda.
 * Includes switch-related accessories, e.g. lubes, switch opening tools, films? that can also be reviewed/costed.
+* Ability to add/link force curves
+* Ability to add characteristic data like stem thicknesses, spring weights measured etc.
